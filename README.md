@@ -11,6 +11,13 @@ The goal of this project was to improve my understanding of DOM manipulation, ev
 
 ---
 
+## 🔗 Live Demo
+
+👉 Play the game here:  
+https://tic-tac-toe-two-phi-93.vercel.app/
+
+---
+
 ## 🎨 UI Enhancement
 
 This project also includes a custom favicon for a better browser experience.
